@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - prints _putchar and a new line
+ * main - print _putchar
  * is written by sungsong
  * Return: Always 0
  */
