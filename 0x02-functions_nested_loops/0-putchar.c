@@ -3,7 +3,7 @@
  * main - print _putchar
  * is written by sungsong
  * Return: 0
- * /
+ */
 
 int main(void)
 {
