@@ -1,17 +1,17 @@
 #include "main.h"
-#include <stdio.h>
-/**
- * main - check the code for Holberton School students.
- *
- * Return: Always 0.
- */
-int main(void)
-{
-	char c;
 
-	c = '0';
-	printf("%c: %d\n", c, _isdigit(c));
-	c = 'a';
-	printf("%c: %d\n", c, _isdigit(c));
+/**
+ * _isdigit - function that verifies if a character is a digit or not
+ * @c: tested character
+ * Return: 1 if it is uppercase, 0 if not
+ */
+
+int _isdigit(int c)
+{
+	if ((c >= 48) && (c <= 57))
+	return (1);
+	{
+	else
+	}
 	return (0);
 }
