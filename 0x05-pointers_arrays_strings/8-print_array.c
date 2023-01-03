@@ -6,7 +6,7 @@
  * @n: number of array elements.
  *
  * Return: void.
- */ 
+ */
 void print_array(int *a, int n)
 {
 	int i;
